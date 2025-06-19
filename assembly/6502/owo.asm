@@ -39,7 +39,7 @@ print_loop:
 	
 	inx
 	inx
-	cpx #22 ; 2 * line count (5)
+	cpx #22 ; 2 * line count (11)
 	bne print_loop
 	rts
 
